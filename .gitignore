@@ -23,3 +23,6 @@ Thumbs.db
 
 # 日志
 *.log
+
+# 打包产物
+*.zip
